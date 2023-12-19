@@ -54,4 +54,7 @@ Gerardo Garza Castilla is an experienced web developer with a passion for creati
 ## Repository URL
 - https://github.com/JerryChowMX/Challenge-Week-4
 
+## Deployed Page
+- https://jerrychowmx.github.io/Challenge-Week-4/
+
 Thank you for checking out the JavaScript Fundamentals Quiz. Feel free to contribute, suggest improvements, or reach out with any questions or feedback!
