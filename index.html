@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>JavaScript Quiz</title>
+  <link rel="stylesheet" href="index.css">
+  
+</head>
+
+<body>
+  <div id="quiz-container">
+    <button id="start-btn">Start Quiz</button>
+    <div id="question-container" class="hide">
+      <div id="question">Question</div>
+      <div id="answer-buttons" class="btn-grid">
+        <!-- Answer Buttons will go here -->
+      </div>
+    </div>
+    <div id="timer">Time: <span id="time">80</span> seconds</div>
+    <div id="end-screen" class="hide">
+      <h1 id="final-score"></h1>
+      <input type="text" id="username" placeholder="Initials" />
+      <button id="submit-score">Submit Score</button>
+    </div>
+    <ul id="high-scores"></ul>
+  </div>
+  <script src="index.js"></script>
+</body>
+
+</html>
